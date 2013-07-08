@@ -1,4 +1,7 @@
 database password = rfechristmaslights
+"eb start" starts the elasticbeanstalk application
+"eb status" gives us the URL of the application
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html
 
 == Welcome to Rails
 

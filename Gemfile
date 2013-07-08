@@ -5,7 +5,12 @@ gem 'rails', '3.2.13'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 gem 'mysql2'
-gem 'sqlite3'
+gem 'aws-sdk'
+gem 'devise'
+gem 'orm_adapter_aws'
+gem 'therubyracer'
+gem 'less-rails'
+gem 'twitter-bootstrap-rails'
 
 
 # Gems used only for assets and not required
